@@ -1,4 +1,12 @@
 {
-  "application.js": "/packs/application-8d71e5035f8940a9e3d3.js",
-  "application.js.map": "/packs/application-8d71e5035f8940a9e3d3.js.map"
+  "application.js": "/packs/application-2df4ac6358a696cd0142.js",
+  "application.js.map": "/packs/application-2df4ac6358a696cd0142.js.map",
+  "bootstrap.css": "/packs/bootstrap-123f5df71554dc5f28208b4292283f62.css",
+  "bootstrap.css.map": "/packs/bootstrap-123f5df71554dc5f28208b4292283f62.css.map",
+  "bootstrap.js": "/packs/bootstrap-bac5a81b761e6a44f967.js",
+  "bootstrap.js.map": "/packs/bootstrap-bac5a81b761e6a44f967.js.map",
+  "hello_react.js": "/packs/hello_react-fb58f58d4bf7befc1626.js",
+  "hello_react.js.map": "/packs/hello_react-fb58f58d4bf7befc1626.js.map",
+  "server_rendering.js": "/packs/server_rendering-00474da934c26159fcb2.js",
+  "server_rendering.js.map": "/packs/server_rendering-00474da934c26159fcb2.js.map"
 }
